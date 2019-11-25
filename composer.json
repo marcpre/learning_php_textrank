@@ -1,0 +1,12 @@
+{
+    "name": "wrdmapg/learning_php_textrank",
+    "authors": [
+        {
+            "name": "Admin",
+            "email": "admin@admin.com"
+        }
+    ],
+    "require": {
+        "php-science/textrank": "^1.1"
+    }
+}
